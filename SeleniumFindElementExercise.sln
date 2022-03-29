@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumFindElementExercise", "SeleniumFindElementExercise\SeleniumFindElementExercise.csproj", "{751E416B-BAE2-4A75-8E2C-FB1EF69976F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumFindElementsExercise", "SeleniumFindElementsExercise\SeleniumFindElementsExercise.csproj", "{AD64619E-142B-45E0-896F-7C72A8763F8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumFindElementTest", "SeleniumFindElementTest\SeleniumFindElementTest.csproj", "{14791380-86CE-4CD5-B52B-5A45872D7246}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{751E416B-BAE2-4A75-8E2C-FB1EF69976F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{751E416B-BAE2-4A75-8E2C-FB1EF69976F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{751E416B-BAE2-4A75-8E2C-FB1EF69976F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{751E416B-BAE2-4A75-8E2C-FB1EF69976F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD64619E-142B-45E0-896F-7C72A8763F8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD64619E-142B-45E0-896F-7C72A8763F8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD64619E-142B-45E0-896F-7C72A8763F8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD64619E-142B-45E0-896F-7C72A8763F8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14791380-86CE-4CD5-B52B-5A45872D7246}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14791380-86CE-4CD5-B52B-5A45872D7246}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14791380-86CE-4CD5-B52B-5A45872D7246}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14791380-86CE-4CD5-B52B-5A45872D7246}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6ADF5917-9C64-4395-8F4D-59EE8AD2B367}
+	EndGlobalSection
+EndGlobal
